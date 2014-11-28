@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    background:url(/img/style/background.png) repeat-x;
+    background-color:#d5e5e1;
+}
+
+p {
+    margin:0; padding:0;
+    margin-bottom:15px;
+}
+
+img {
+    border:none;
+}
+
+.clear {
+    clear:both;
+}
+
+h1.logo {
+	font-weight:normal;
+	color:#333;
+	margin:30px 0px;
+	text-transform:uppercase;
+	text-shadow:#fff 1px 1px 1px;
+}
+
+div.container {
+    text-align:center;
+}
+
+label {
+    display:block;
+    font-weight:bold;
+    font-size:14px;
+    margin-bottom:5px;
+}
+
+img.logo {
+    margin-top:75px;
+	margin-bottom:25px;
+}
+
+div.body_content {
+    margin:0 auto;
+    text-align:left;
+    background:#fff;
+    *border:1px solid #ccc;
+	-moz-box-shadow: 0px 0px 5px #ccc;
+	-webkit-box-shadow: 0px 0px 5x #ccc;
+	box-shadow: 0px 0px 5px #ccc;
+    padding:15px;
+}
+
+table.login {
+    margin:0 auto;
+    width:250px;
+}
+	table.login tr td {
+        padding:5px;
+    }
+
+input.text {
+    height:30px;
+    line-height:30px;
+    padding:0px 5px;
+    font-size:15px;
+    width:250px;
+}
+
+div.problem {
+    border-top:1px dashed #ccc;
+    padding-top:10px;
+}
+	div.problem p {
+        margin:0;
+    }
+
+div.message {
+    margin:0 auto;
+    width:280px;
+    padding:10px;
+}
+	div.message p {
+        margin:0;
+        padding-left:25px;
+    }
+
+div.action {
+    border:1px solid #bae8bd;
+    background-color:#dbf5dd;
+    color:#274923;
+}
+
+	div.action p {
+        background:url(/img/icons/tick.png) no-repeat left;
+    }
+
+div.error {
+    border:1px solid #f2b6b9;
+    background-color:#fac7ca;
+    color:#4f2f2f;
+    padding:10px;
+}
+	div.error p {
+    	background:url(/img/icons/cross.png) no-repeat left;
+    }
+    
+textarea {
+    width:875px;
+    margin-bottom:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    padding:10px;
+}
+
+div.item {
+    padding:15px;
+    margin-bottom:15px;
+    background:#fbfbfb;
+    border:1px solid #dae0e3;
+}
+
+div.notice {
+    display:none;
+    padding:10px;
+}
+
+a {
+	color:#393939;
+    outline:none;
+}
+
+
+
+div.body_foot_logos {
+    margin: 30px auto;
+    text-align: right;
+    width: 380px;
+    padding: 0;
+}

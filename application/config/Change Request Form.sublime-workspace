@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valida",
+				"validator"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"Redire",
+				"Redirect-back	Redirect-back"
+			],
+			[
+				"req",
+				"requester"
+			],
+			[
+				"email",
+				"emailPayload"
+			],
+			[
+				"Input",
+				"Input-get	Input-get"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"Url",
+				"URL-to	URL-to"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"tre",
+				"trelloClient"
+			],
+			[
+				"U",
+				"URL-full	URL-full"
+			],
+			[
+				"Redirec",
+				"Redirect-away	Redirect-away"
+			],
+			[
+				"Conf",
+				"Config-get	Config-get"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"current",
+				"current_url"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"bsm",
+				"bsmListTarget"
+			],
+			[
+				"expor",
+				"export_schemas"
+			],
+			[
+				"ac",
+				"actionsPanelHtml"
+			],
+			[
+				"ex",
+				"export_schema"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"expo",
+				"export_field"
+			],
+			[
+				"export",
+				"export_fields"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function()"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"is_a",
+				"is_ajax	CI - Is ajax request"
+			],
+			[
+				"long",
+				"long_term_condition"
+			],
+			[
+				"expot",
+				"export_schema"
+			],
+			[
+				"foreach",
+				"foreach	foreach …"
+			],
+			[
+				"action",
+				"actions_view"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/djekl/projects/change-requests/app/views/long_view_is_long.blade.php",
+			"settings":
+			{
+				"buffer_size": 7863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/djekl/projects/change-requests/app/controllers/ChangeController.php",
+			"settings":
+			{
+				"buffer_size": 1941,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"projec",
+				"Project: Close"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"update",
+				"Composer: Update"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"generate",
+				"Laravel Generate: Seed"
+			],
+			[
+				"generate: se",
+				"Laravel Generate: Seed"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pr",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"ush",
+				"Snippet: bs3-input-search-h"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"Push",
+				"Git: Push Current Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pac li",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ret",
+				"Sublimall: Retrieve"
+			],
+			[
+				"sub",
+				"Sublimall: Restore backup"
+			],
+			[
+				"retre",
+				"Sublimall: Retrieve"
+			],
+			[
+				"uplo",
+				"Sublimall: Upload"
+			],
+			[
+				"uploa",
+				"Sublimall: Upload"
+			],
+			[
+				"retr",
+				"Sublimall: Retrieve"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 766.0
+	},
+	"console":
+	{
+		"height": 657.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/djekl/projects/change-requests",
+		"/Users/djekl/projects/change-requests/app",
+		"/Users/djekl/projects/change-requests/app/config",
+		"/Users/djekl/projects/change-requests/app/controllers",
+		"/Users/djekl/projects/change-requests/app/models",
+		"/Users/djekl/projects/change-requests/app/views",
+		"/Users/djekl/projects/change-requests/public",
+		"/Users/djekl/projects/change-requests/public/assets",
+		"/Users/djekl/projects/change-requests/public/assets/sass",
+		"/Users/djekl/projects/change-requests/public/assets/sass/pages",
+		"/Users/djekl/projects/change-requests/public/assets/sass/partials"
+	],
+	"file_history":
+	[
+		"/Users/djekl/projects/change-requests/node_modules/gulp/node_modules/tildify/node_modules/.bin/user-home",
+		"/Users/djekl/projects/change-requests/node_modules/laravel-elixir/node_modules/npm/test/tap/update-save.js",
+		"/Users/djekl/projects/change-requests/app/models/User.php",
+		"/Users/djekl/projects/change-requests/app/config/rfc.php",
+		"/Users/djekl/Library/Caches/Cleanup At Startup/Transmit/95144147-7D8E-48FB-AF37-155EA9870EDB/index.html",
+		"/Users/djekl/projects/change-requests/gulpfile.js",
+		"/Users/djekl/projects/change-requests/public/assets/sass/site.scss",
+		"/Users/djekl/projects/change-requests/.editorconfig",
+		"/Users/djekl/projects/change-requests/public/assets/sass/_variables.scss",
+		"/Users/djekl/projects/change-requests/public/assets/sass/_elements.scss",
+		"/Users/djekl/projects/change-requests/public/assets/sass/partials/_base.scss",
+		"/Users/djekl/projects/change-requests/public/assets/sass/pages/_home.scss",
+		"/Users/djekl/projects/change-requests/.gitignore",
+		"/Users/djekl/projects/change-requests/bower.json",
+		"/Users/djekl/projects/change-requests/public/assets/sass/partials/_header.scss",
+		"/Users/djekl/projects/change-requests/public/assets/sass/partials/_footer.scss",
+		"/Users/djekl/projects/change-requests/app/views/long_view_is_long.blade.php",
+		"/Users/djekl/projects/change-requests/package.json",
+		"/Users/djekl/projects/change-requests/resources/assets/sass/app.scss",
+		"/Users/djekl/projects/change-requests/public/css/app.css",
+		"/Users/djekl/projects/change-requests/.bowerrc",
+		"/Users/djekl/Desktop/XboxAPI logo 1.svg",
+		"/Users/djekl/.bashrc",
+		"/Users/djekl/projects/change-requests/app/views/view.blade.php",
+		"/etc/hosts",
+		"/Users/djekl/projects/change-requests/app/config/rfc_form.php",
+		"/Users/djekl/projects/change-requests/app/controllers/ChangeController.php",
+		"/Users/djekl/projects/change-requests/app/views/emails/blank.blade.php",
+		"/Users/djekl/projects/change-requests/app/config/app.php",
+		"/Users/djekl/projects/change-requests/app/config/development/database.php",
+		"/Users/djekl/projects/change-requests/app/config/development/app.php",
+		"/Users/djekl/projects/change-requests/composer.json",
+		"/Users/djekl/projects/change-requests/app/database/seeds/ClientsTableSeeder.php",
+		"/Users/djekl/projects/change-requests/app/routes.php",
+		"/Users/djekl/projects/change-requests/app/database/migrations/2014_11_19_133144_create_client_table.php",
+		"/Users/djekl/projects/change-requests/app/config/database.php",
+		"/Users/djekl/projects/change-requests/bootstrap/start.php",
+		"/Users/djekl/projects/change-requests/app/config/mail.php",
+		"/Users/djekl/projects/change-requests/app/.env.development.php",
+		"/Users/djekl/projects/change-requests/app/config/services.php",
+		"/Users/djekl/projects/change-requests/app/controllers/HomeController.php",
+		"/Users/djekl/projects/change-requests/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/Users/djekl/projects/change-requests/app/database/seeds/DatabaseSeeder.php",
+		"/Users/djekl/Dropbox/My Skype Received Files/content-right.php",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/config/database.php",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/config/development/database.php",
+		"/Users/djekl/projects/old_demo.canaryndtms.net/sql/install.sql",
+		"/Users/djekl/projects/demo.canaryndtms.net/.gitignore",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/controllers/dbpatch.php",
+		"/Users/djekl/projects/demo.canaryndtms.net/README.md",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/models/auth_model.php",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/config/config.php",
+		"/Users/djekl/Library/Caches/Cleanup At Startup/Transmit/1541DB3C-BFCF-4596-AFBC-80335D5D9E51/dbpatch.php",
+		"/Users/djekl/projects/demo.canaryndtms.net/sql/canary-ndtms.sql",
+		"/Users/djekl/projects/demo.canaryndtms.net/application/third_party/password-compat/lib/password.php",
+		"/Volumes/Macintosh HD/Users/djekl/projects/old_demo.canaryndtms.net/LICENSE.txt",
+		"/Volumes/Macintosh HD/Users/djekl/projects/old_demo.canaryndtms.net/README.md",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/djekl/projects/demo.canaryndtms.net/public_html/index.php",
+		"/Users/djekl/projects/canaryndtms.net/.git/hooks/post-commit",
+		"/Users/djekl/projects/canaryndtms.net/why-open-source.php",
+		"/Users/djekl/projects/canaryndtms.net/index.php",
+		"/Users/djekl/projects/canaryndtms.net/about.php",
+		"/Users/djekl/.gitconfig",
+		"/Users/djekl/projects/canaryndtms.net/assets/scss/main.scss",
+		"/Users/djekl/projects/canaryndtms.net/assets/scss/_elements.scss",
+		"/Users/djekl/projects/imgoingforaride.com/app/models/Ride.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/routes.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/controllers/RidesController.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/database/seeds/RidesTableSeeder.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/database/migrations/2014_08_29_145916_update_rides_table.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/symfony/console/Symfony/Component/Console/Input/Input.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/SessionInterface.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Queue/Failed/FailedJobProviderInterface.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Attribute/NamespacedAttributeBag.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/TaggedCache.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/Repository.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/views/rides/show.blade.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/config/database.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/events.php",
+		"/Users/djekl/projects/imgoingforaride.com/bootstrap/start.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/helpers.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/intervention/image/src/Intervention/Image/Image.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/hashids/hashids/lib/Hashids/Hashids.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/storage/logs/events.log",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Log/Writer.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/start/global.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/XCacheStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/WinCacheStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/StoreInterface.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/MemcachedStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/ArrayStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/ApcWrapper.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Cache/ApcStore.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Database/ConnectionInterface.php",
+		"/Users/djekl/projects/imgoingforaride.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/Users/djekl/.netrc",
+		"/Users/djekl/projects/imgoingforaride.com/app/views/rides/index.blade.php",
+		"/Users/djekl/projects/imgoingforaride.com/app/views/templates/master.blade.php",
+		"/Users/djekl/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/djekl/projects/imgoingforaride.com/.editorconfig",
+		"/Users/djekl/projects/imgoingforaride.com/composer.json",
+		"/Users/djekl/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/djekl/projects/imgoingforaride.com/app/storage/views/5acce6c6c7500d990a77e05848be6180",
+		"/Users/djekl/projects/imgoingforaride.com/app/config/services.php",
+		"/Users/djekl/projects/imgoingforaride.com/.env.development.php",
+		"/etc/php.ini",
+		"/Users/djekl/projects/waystowellness.org.uk/application/views/journey_event_types/set.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/controllers/journey_event_types.php",
+		"/Users/djekl/projects/waystowellness.org.uk/public_html/js/views/export_schemas/set.js",
+		"/Users/djekl/projects/waystowellness.org.uk/system/helpers/url_helper.php",
+		"/Users/djekl/projects/waystowellness.org.uk/public_html/js/views/default.js",
+		"/Users/djekl/projects/waystowellness.org.uk/application/helpers/journey_event_type_helper.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/config/autoload.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/views/resources/index.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/views/journeys/index.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/views/journeys/view.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/models/journeys_model.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/controllers/journeys.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/language/english/journeys_lang.php",
+		"/Users/djekl/projects/waystowellness.org.uk/application/views/journeys/set.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/djekl/projects/canaryndtms.net",
+			"/Users/djekl/projects/imgoingforaride.com",
+			"/Users/djekl/projects/waystowellness.org.uk/application/views",
+			"/Users/djekl/projects/waystowellness.org.uk/application/controllers",
+			"/Users/djekl/projects/waystowellness.org.uk/sql"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"name=\"section\" id=\"",
+			"$grid-gutter-width",
+			"&.force",
+			"$add-gap",
+			"100px",
+			"15px",
+			"add-top-margin panel panel-default",
+			"panel panel-default",
+			"dropzone",
+			"selected",
+			"3",
+			"assets",
+			"-collapse collapse",
+			"-collapse collapse in",
+			" collapse in",
+			" && $(el).hasClass('hidden')",
+			"id",
+			"selected",
+			"collapse in",
+			"attachment=\"radio\"",
+			"type",
+			"options",
+			"explanation",
+			"Explanation",
+			"explanation",
+			"textbox",
+			"location",
+			"Location",
+			"location",
+			"locationHeading",
+			"<input type=\"radio\"",
+			"btn btn-primary",
+			"name",
+			"locationHeading",
+			"nameHeading",
+			"requester",
+			"Title",
+			"requester",
+			"Requester",
+			"requester",
+			"$client",
+			"'",
+			"tinyint",
+			"development",
+			"’",
+			"/Users/alan",
+			"/alan/",
+			"arrow-list-green",
+			"return Redirect::route('rides.show', $ride->hashid)->withInfo('Ride Created Successfully');",
+			"id",
+			"hashid(",
+			"unhashid",
+			"id_hash",
+			"hash_id",
+			"AqPBMZ2pxqF8JXKv5brf_5xr201P8bv39HHeven8akFxih0awSOmQohOGvnLxNWR",
+			"error",
+			"imgoingforaride",
+			"xbox",
+			"xboix",
+			"partials/form_group_horizontal",
+			"event",
+			"-",
+			"delete",
+			"journey_event_types",
+			"10",
+			"res_resc_id_options",
+			"js_label",
+			"client_gender",
+			"client_full_name",
+			"exit",
+			"var_export",
+			";",
+			"search",
+			"$this->",
+			"j_",
+			"updated",
+			"printf \"\\n\"\n",
+			"printf \"rm -fr",
+			"999999",
+			"printf \"rm -fr",
+			"999999",
+			"$i$i",
+			"$varc$s",
+			".$i",
+			"$s\\n",
+			"printf \"rm -fr",
+			"$s",
+			"$c",
+			"    printf \"rm -fr unreserve_order_items.$i$c$i$s\\n\"\n    rm -fr unreserve_order_items.$i$c$i$s\n    printf \"\\n\"\n\n    printf \"rm -fr unreserve_order_items.$i$c$s\\n\"\n    rm -fr unreserve_order_items.$i$c$s\n    printf \"\\n\"\n    unset c\n",
+			"$i$c$i$s",
+			"command=\"",
+			"command=",
+			"command=\"",
+			"printf $command",
+			"printf \"rm",
+			"\"rm -fr unreserve_order_items.",
+			"$c$i",
+			"printf \"rm -fr",
+			"printf \"rm",
+			"printf \"",
+			"printf \"rm",
+			"printf \"",
+			"$i$c",
+			"for ii",
+			"for i",
+			"$i",
+			"i",
+			"for",
+			"printf \"\\n\"",
+			" +=",
+			"{$",
+			"$ii",
+			"$i",
+			"i",
+			".1",
+			"echo \"",
+			"unreserve_order_items",
+			" && ",
+			"generate_bills",
+			"emails_queue",
+			" && ",
+			"1px solid red",
+			"listPlacementClass",
+			"listPlacement",
+			"list_placement",
+			"undef",
+			"console.log("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&rsquo;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/djekl/projects/change-requests/app/views/long_view_is_long.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7863,
+						"regions":
+						{
+							"active0":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/1.png",
+								"regions":
+								[
+									[
+										1440,
+										1440
+									]
+								],
+								"scope": "gitp"
+							},
+							"active1":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/2.png",
+								"regions":
+								[
+									[
+										2514,
+										2514
+									]
+								],
+								"scope": "gitp"
+							},
+							"active2":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/3.png",
+								"regions":
+								[
+									[
+										3074,
+										3074
+									]
+								],
+								"scope": "gitp"
+							},
+							"active3":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/4.png",
+								"regions":
+								[
+									[
+										3602,
+										3602
+									]
+								],
+								"scope": "gitp"
+							},
+							"active4":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/5.png",
+								"regions":
+								[
+									[
+										4312,
+										4312
+									]
+								],
+								"scope": "gitp"
+							},
+							"active5":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/6.png",
+								"regions":
+								[
+									[
+										4980,
+										4980
+									]
+								],
+								"scope": "gitp"
+							},
+							"active6":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/7.png",
+								"regions":
+								[
+									[
+										6030,
+										6030
+									]
+								],
+								"scope": "gitp"
+							},
+							"active7":
+							{
+								"flags": 48,
+								"icon": "Packages/gitp/icons/8.png",
+								"regions":
+								[
+									[
+										6633,
+										6633
+									]
+								],
+								"scope": "gitp"
+							}
+						},
+						"selection":
+						[
+							[
+								3645,
+								3645
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/djekl/projects/change-requests/app/controllers/ChangeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"project": "Change Request Form.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"cl",
+				"~/Sublime Projects/Cloud Data Service 2.0.sublime-project"
+			],
+			[
+				"co",
+				"~/Sublime Projects/corrieschrijverviolins.co.uk.sublime-project"
+			],
+			[
+				"",
+				"~/Sublime Projects/Leap Daughter.sublime-project"
+			],
+			[
+				"lea",
+				"~/Sublime Projects/Leap Daughter.sublime-project"
+			],
+			[
+				"img",
+				"~/Sublime Projects/Im Going For A Ride.sublime-project"
+			],
+			[
+				"clo",
+				"~/Sublime Projects/Cloud Data Service.sublime-project"
+			],
+			[
+				"ca",
+				"~/Sublime Projects/Canary NDTMS.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

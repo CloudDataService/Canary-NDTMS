@@ -1,0 +1,11 @@
+.nav_container .tabs,
+.csop_charts .functions {
+	display: none;
+}
+
+.csop_charts .header,
+.csop_charts .header h2 {
+	width: 100%;
+	color: #000;
+	font-size: 16pt;
+}

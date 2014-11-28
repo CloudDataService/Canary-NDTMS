@@ -1,0 +1,14 @@
+application/config/development
+
+public_html/img/assessments/*.png
+application/logs/sql/
+
+application/postcode_cache/*
+
+.last_csop
+.site_revision
+.log_add_client_name_and_journey_id
+
+
+# Git KEEP (THIS MUST BE AT THE BOTTOM SO THAT ITS NEVER IGNORED!!!)
+!.gitkeep
