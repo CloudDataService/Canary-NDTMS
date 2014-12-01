@@ -45,4 +45,4 @@ See the LICENSE file
 
 Copyright
 ---
-Add some data here to ref against CDS.
+Copyright (c) 2014 Cloud Data Service Ltd. All rights reserved. See license file for more information
