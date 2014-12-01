@@ -2,7 +2,7 @@
 
 ---
 
-Write something about Canary NDTMS here...
+Canary is a case management and reporting system for organisations that provide structured drug and alcohol support for adults. It also has the facility to export to the National Drug Treamtent Monitoring Service (NDTMS)
 
 Setup
 ---
